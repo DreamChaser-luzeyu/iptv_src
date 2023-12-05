@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 ,美国CGTN (Opt-1)
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1 ,美国CGTN (Opt-2)
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 ,拉丁美洲CGTN
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/AkFFrS7.png",CGTN Arabic (576p) [Not 24/7]
+https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/JHv0WxM.png",CGTN Documentary (576p) [Not 24/7]
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/Poz3xfi.png",CGTN Español (576p)
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/BwhledK.png",CGTN Français (576p) [Not 24/7]
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/nDWkCmL.png",CGTN Русский (576p)
+https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="http://static.epg.best/au/CGTN.au.png",CGTN(中国)
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="http://static.epg.best/au/CGTNDocu.au.png",CGTN Documentary(中国)
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",CGTN (720p)
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 ,CGTN(黑龙江移动[CDN]-576P)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
+#EXTINF:-1 ,CGTN(陕西移动[CDN]-1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
+#EXTINF:-1 ,CGTN阿拉伯语(官方-576P)
+http://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 ,CGTN纪录(黑龙江移动[鸡西]-576P)
+http://39.134.66.66/PLTV/88888888/224/3221225509/index.m3u8
+#EXTINF:-1 ,CGTN纪录(黑龙江移动[CDN]-576P)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
+#EXTINF:-1 ,CGTN西班牙语(官方-576P)
+http://livees.cgtn.com/500e/prog_index.m3u8

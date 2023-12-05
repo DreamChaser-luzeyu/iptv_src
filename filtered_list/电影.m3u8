@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 group-title="Undefined",宇哥电影
+http://epg.112114.xyz/douyu/413573
+#EXTINF:-1 group-title="Undefined",粤语电影2
+http://epg.112114.xyz/douyu/6566671
+#EXTINF:-1 group-title="Undefined",粤语电影3
+http://epg.112114.xyz/douyu/1226741
+#EXTINF:-1 ,CHC动作电影(陕西移动[CDN]-1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+#EXTINF:-1 ,CHC高清电影(陕西移动[CDN]-1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+#EXTINF:-1 ,黑莓电影(黑龙江移动[鸡西]-1080P)
+http://39.134.66.66/PLTV/88888888/224/3221225681/index.m3u8
+#EXTINF:-1 ,NewTV超级电影(黑龙江移动[鸡西]-1080P)
+http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
+#EXTINF:-1 ,NewTV超级电影(黑龙江移动[CDN]-1080P)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1 ,NewTV动作电影(黑龙江移动[鸡西]-1080P)
+http://39.134.66.66/PLTV/88888888/224/3221225555/index.m3u8
+#EXTINF:-1 ,NewTV动作电影(黑龙江移动[CDN]-1080P)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:-1 group-title="影视" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png",CHC动作电影
+http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
+#EXTINF:-1 ,CHC高清电影
+http://live.mastvnet.com:800/4rlff1m/live.m3u8
+#EXTINF:-1 group-title="影视" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png",CHC高清电影
+http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8

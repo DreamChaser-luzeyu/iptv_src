@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="Documentary;Education" tvg-logo="https://i.imgur.com/Czxi7yk.png",Asharq Discovery (1080p) [Geo-blocked]
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/C0VEHXU.png",Discovery Kids FreeLive Brazil (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/C0VEHXU.png",Discovery Kids FreeLive Latam (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist.m3u8

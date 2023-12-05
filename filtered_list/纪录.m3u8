@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 ,CGTN纪录(黑龙江移动[鸡西]-576P)
+http://39.134.66.66/PLTV/88888888/224/3221225509/index.m3u8
+#EXTINF:-1 ,CGTN纪录(黑龙江移动[CDN]-576P)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
+#EXTINF:-1 ,求索纪录(黑龙江移动[鸡西]-1080P)
+http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1 ,NewTV精品纪录(黑龙江移动[鸡西]-1080P)
+http://39.134.66.66/PLTV/88888888/224/3221225545/index.m3u8
