@@ -59,52 +59,6 @@ class Logger:
 logger_gv = Logger(LogLevel.log_debug_)
 
 
-# class Channel:
-#     def __init__(self, channel_url, channel_name="Unnamed", channel_group="Ungrouped", channel_logo="",
-#                  channel_country="Unknown", channel_lang="Unknown"):
-#         self.channel_url_ = channel_url
-#         self.channel_name_ = channel_name
-#         self.channel_group_ = channel_group
-#         self.channel_logo_ = channel_logo
-#         self.channel_country_ = channel_country
-#         self.channel_lang_ = channel_lang
-#
-#
-# def get_remote_url_list(urls_str: str) -> list[str]:
-#     line_list = urls_str.split("\n")
-#     url_list = []
-#     for line in line_list:
-#         if line.startswith("http"):
-#             url_list.append(line)
-#     return url_list
-
-
-# def download_and_append(url: str) -> None:
-#     import requests
-#     response_str: str = ""
-#     response = None
-#     try:
-#         response = requests.get(url)
-#         response_str = response.text
-#     except Exception as e:
-#         logger_gv.log_warn(e)
-#     if response:
-#         logger_gv.log_debug(response_str)
-#         logger_gv.log_debug(response.status_code)
-#     else:
-#         logger_gv.log_warn("url {} invalid".format(url))
-#         return
-#     full_file_obj = None
-#     try:
-#         full_file_obj = open("full.m3u", encoding="utf-8", mode="a")
-#         full_file_obj.write(response_str)
-#     except Exception as e:
-#         logger_gv.log_warn(e)
-#     finally:
-#         if full_file_obj: full_file_obj.close()
-#     return
-
-
 def append_local() -> None:
     import os
     files = os.listdir("filtered_list")
