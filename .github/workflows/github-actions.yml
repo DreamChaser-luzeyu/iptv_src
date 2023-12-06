@@ -1,0 +1,10 @@
+name: Merge Channel List
+on: [push]
+jobs:
+    Merge-Channel:
+        runs-on: ubuntu-latest
+        steps:
+            - run: echo "Merging list..."
+            - run: rm full_filtered.m3u
+            - run: python gen_filtered.py
+            - run: echo "This job's status is ${{ job.status }}."
