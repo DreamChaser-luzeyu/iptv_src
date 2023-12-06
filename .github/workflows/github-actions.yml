@@ -11,8 +11,6 @@ jobs:
             - run: echo "Merging list..."
             - run: rm full_filtered.m3u
             - run: python gen_filtered.py
-            - run: touch test.file
-            - run: echo "This job's status is ${{ job.status }}."
             - name: Push
               run: |
                    git config user.name github-actions

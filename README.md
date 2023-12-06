@@ -8,5 +8,5 @@ All collected from the internet. You could either use my collection or collect o
  - Clear the content in the `full.m3u`
  - Run `gen_full.py`
  - Run `IPTV Checker` and export channels needed to `filtered_list` folder
- - Clear content in `full_filtered.m3u` and run `gen_filtered.py`
+ - `[Github Action]` Clear content in `full_filtered.m3u` and run `gen_filtered.py`
  - Either use the `full_filtered.m3u` file or use the github raw link to it
