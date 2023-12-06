@@ -4,6 +4,7 @@ jobs:
     Merge-Channel:
         runs-on: ubuntu-latest
         steps:
+            - run: pwd
             - run: echo "Merging list..."
             - run: rm full_filtered.m3u
             - run: python gen_filtered.py
