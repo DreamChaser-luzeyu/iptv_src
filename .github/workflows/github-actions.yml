@@ -6,7 +6,7 @@ jobs:
         steps:
             - run: pwd
             - run: ls -al ../
-            - run: ls -al ${{ github.workspace }}
+            - run: ls -al $GITHUB_WORKSPACE
             - run: echo "Merging list..."
             # - run: rm full_filtered.m3u
             - run: python gen_filtered.py
