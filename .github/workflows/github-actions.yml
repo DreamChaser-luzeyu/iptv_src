@@ -7,6 +7,6 @@ jobs:
             - run: pwd
             - run: ls
             - run: echo "Merging list..."
-            - run: rm full_filtered.m3u
+            # - run: rm full_filtered.m3u
             - run: python gen_filtered.py
             - run: echo "This job's status is ${{ job.status }}."
